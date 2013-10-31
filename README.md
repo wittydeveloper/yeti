@@ -255,6 +255,7 @@ Here's a breakdown of all available CLI options.
  - *wd-url* (URL) WebDriver Hub URL. May contain a username and password.
  - *help* Print usage.
  - *version* Print the Yeti version.
+ - *mountpoint* base url to mount yeti on (ex : --mountpoint "/myTestSubFolde")
 
 #### Configuration file
 
